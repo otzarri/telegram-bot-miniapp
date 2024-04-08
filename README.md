@@ -1,4 +1,4 @@
-# [grammY webApp](https://github.com/grammyjs/web-app) using [Deno Fresh](https://fresh.deno.dev) on [Deno Deploy](https://deno.com/deploy)
+# Telegram bot with MiniApp
 
 > 🛠️ Repo content cloned from the [deno-fresh-web-app]([examples/setups/deno-fresh-web-app at main · grammyjs/examples · GitHub](https://github.com/grammyjs/examples/tree/main/setups/deno-fresh-web-app)) example app.
 
