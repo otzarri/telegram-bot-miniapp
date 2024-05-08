@@ -1,6 +1,6 @@
 # Telegram bot with MiniApp
 
-> 🛠️ Repo content cloned from the [deno-fresh-web-app]([examples/setups/deno-fresh-web-app at main · grammyjs/examples · GitHub](https://github.com/grammyjs/examples/tree/main/setups/deno-fresh-web-app)) example app.
+> 🛠️ Repo content cloned from the [deno-fresh-web-app](https://github.com/grammyjs/examples/tree/main/setups/deno-fresh-web-app) example app.
 
 This repository is the template for a Telegram bot integrated with a MiniApp.
 
